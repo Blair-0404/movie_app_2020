@@ -11,6 +11,15 @@ body {
   height: 100%;
 }
 
+/*.loader {*/
+/*  width: 100%;*/
+/*  height: 100vh;*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  font-weight: 300;*/
+/*}*/
+
 .movie-list {
   width: 1300px;
   margin: auto;
